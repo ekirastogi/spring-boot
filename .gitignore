@@ -1,0 +1,14 @@
+src/main/resources/git.properties
+.idea/
+build/
+homeScreen.iml
+*.iml
+*.iws
+classes/
+out/
+.gradle/
+.classpath
+.project
+.settings/
+bin/
+
