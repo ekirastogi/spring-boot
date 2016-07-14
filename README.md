@@ -3,8 +3,9 @@ This Repository containes Spring Boot Demo projects on different branches for in
 
 ## Spring Security - MVC 
 *   [Custom Login Url](https:://)
-*   [Custom Login Page](https://github.com/gitekiras/spring-boot/tree/mvc/springSecurity/customLoginPage)
+*   [Custom Login Page](https://github.com/gitekiras/spring-boot/tree/master/springSecurity/mvc/customLoginPage)
 *   [Custom Login Success Handler](htpps://)
 *   [Custom Logout Url](https://)
+*   [Custom Error Page](https://github.com/gitekiras/spring-boot/tree/master/springSecurity/mvc/customErrorPage)
 
 ## Spring Security - Rest
