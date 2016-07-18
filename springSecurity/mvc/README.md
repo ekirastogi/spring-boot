@@ -7,9 +7,3 @@ This Repository containes Spring Boot Demo projects on different branches for in
 *   [Custom Login Success Handler](htpps://)
 *   [Custom Logout Url](https://)
 *   [Custom Error Page](https://github.com/gitekiras/spring-boot/tree/master/springSecurity/mvc/customErrorPage)
-
-## Spring Security - Rest
-
-
-## Spring Security - Rest & JWT
-*   [Spring Security & JWT](https://)
