@@ -10,10 +10,11 @@ import javax.persistence.Embeddable;
 public class Address {
 
     private String address;
-    private int pin;
     private String city;
-    private String state;
     private String country;
+
+    public Address(){}
+    public Address(String address,String city, String counrty){}
 
     public String getAddress() {
         return address;
@@ -23,28 +24,12 @@ public class Address {
         this.address = address;
     }
 
-    public int getPin() {
-        return pin;
-    }
-
-    public void setPin(int pin) {
-        this.pin = pin;
-    }
-
     public String getCity() {
         return city;
     }
 
     public void setCity(String city) {
         this.city = city;
-    }
-
-    public String getState() {
-        return state;
-    }
-
-    public void setState(String state) {
-        this.state = state;
     }
 
     public String getCountry() {
